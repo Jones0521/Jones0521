@@ -29,14 +29,14 @@
 ![](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-![Jones0521's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jones0521&hide=["stars"]&show_icons=true)
-
 
 - 👋 Hi, I’m JadeJones This is my english name. 
 - 👀 I’m interested in Kubernetes and Golang
 - 🌱 I’m currently learning Golang
 - 📫 You can reach me on GitHub
 
+
+![Jones0521's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jones0521&hide=["stars"]&show_icons=true)
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
