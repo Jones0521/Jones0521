@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/IDE-Goland-00ACD7?style=flat-square&logo=Go&logoColor=00ACD7)
 ![](https://img.shields.io/badge/IDE-Pycharm-232F3E?style=flat-square&logo=Python&logoColor=3776AB)
-![](https://img.shields.io/badge/macOS-Big%20Sur-gray?style=flat-square&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/macOS-Monterey-gray?style=flat-square&logo=apple&logoColor=white)
 
 我学过的技术icon
 
